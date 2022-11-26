@@ -1,7 +1,16 @@
 {
     "properties": [
         {
-            "id": 1
+            "id": 1,
+            "price": 30000,
+            "location": "delhi,india",
+            "when": "1-12-2022",
+            "property-type": "house",
+            "locality": "janakpuri-west",
+            "address": "13, cg road",
+            "rooms": 3,
+            "bathrooms": 2,
+            "size": "5x7"
         }
     ]
 }
